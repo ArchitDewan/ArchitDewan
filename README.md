@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ArchitDewan/ArchitDewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Archit 👋
+
+I'm a 3rd Year CS & Math student at McMaster University with an interest in backend systems.
+
+## 📫 Connect
+
+- Portfolio: https://architdewan.github.io
+- Linkedln: https://linkedin.com/in/architdewan
