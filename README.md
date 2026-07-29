@@ -21,5 +21,5 @@ I'm a 3rd Year CS & Math student at McMaster University with an interest in back
 
 ## 📫 Connect
 
-- Portfolio: https://architdewan.github.io
+- Portfolio: https://portfolio.architdewan.dev
 - Linkedln: https://linkedin.com/in/architdewan
