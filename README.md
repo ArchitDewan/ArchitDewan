@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Archit 👋
 
-I'm a 3rd Year CS & Math student at McMaster University with an interest in backend systems.
+I'm a 3rd Year CS & Math student at McMaster University with an interest in backend systems. Currently, I’m a member of the Research Community at Cohere Open Labs working on ML and AI. 
 
 ## 📫 Connect
 
